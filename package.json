@@ -1,0 +1,14 @@
+{
+  "name": "tech-crush-group-project",
+  "version": "1.0.0",
+  "main": "joke.js",
+  "type": "module",
+  "scripts": {
+    "start": "joke.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
